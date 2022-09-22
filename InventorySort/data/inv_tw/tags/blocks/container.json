@@ -1,0 +1,17 @@
+{
+    "values": [
+        "dispenser",
+        "dropper",
+        "furnace",
+        "hopper",
+        "shulker_box",
+        "chest",
+        "trapped_chest",
+        "smoker",
+        "barrel",
+        "blast_furnace",
+        "brewing_stand",
+        "campfire",
+        "soul_campfire"
+    ]
+}

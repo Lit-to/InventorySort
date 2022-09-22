@@ -1,0 +1,7 @@
+#> inv_tw:item/sort/merge
+
+data modify storage array_op: out.front insert 1 from storage array_op: out.data
+data remove storage array_op: out.data
+
+
+

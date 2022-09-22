@@ -1,0 +1,14 @@
+{
+    "function": "copy_nbt",
+    "source": {
+        "type": "storage",
+        "source": "inv_tw:data"
+    },
+    "ops": [
+        {
+            "source": "inv.list",
+            "target": "Items",
+            "op": "merge"
+        }
+    ]
+}
